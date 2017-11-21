@@ -1,0 +1,5 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x64\Release\Panasonic.dll.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x64\Release\Panasonic.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x64\Release\Panasonic.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\obj\x64\Release\Panasonic.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\obj\x64\Release\Panasonic.pdb

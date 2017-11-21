@@ -1,0 +1,6 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x86\Debug\Panasonic.dll.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x86\Debug\Panasonic.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\bin\x86\Debug\Panasonic.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\obj\x86\Debug\Panasonic.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\obj\x86\Debug\Panasonic.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\Panasonic\obj\x86\Debug\Panasonic.csprojResolveAssemblyReference.cache

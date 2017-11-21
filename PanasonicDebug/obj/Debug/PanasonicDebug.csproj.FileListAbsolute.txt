@@ -1,0 +1,16 @@
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.exe.config
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.exe
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\Panasonic.dll
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\Panasonic.pdb
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.csprojResolveAssemblyReference.cache
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.exe
+C:\Users\samuel\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.pdb
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.exe.config
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.exe
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.pdb
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.exe
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\PanasonicDebug.pdb
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\Panasonic.dll
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\bin\Debug\Panasonic.pdb
+C:\Users\Dalesjo\Documents\Visual Studio 2012\Projects\Panasonic\PanasonicDebug\obj\Debug\PanasonicDebug.csprojResolveAssemblyReference.cache
